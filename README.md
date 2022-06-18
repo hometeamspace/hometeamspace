@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hometeamspace
 - 👀 I’m interested in html , css , bootstrap
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on html , css , bootstrap & photoshop , illustrator  , coreldraw
+- 📫 How to reach me ... sitikanthamuhuri@gmail.com
 
 <!---
 hometeamspace/hometeamspace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
