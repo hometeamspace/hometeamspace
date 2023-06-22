@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hometeamspace
-- 👀 I’m interested in html , css , bootstrap
+- 👀 I’m interested in html, css , bootstrap
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on html , css , bootstrap & photoshop , illustrator  , coreldraw
+- 💞️ I’m looking to collaborate on html , css , bootstrap & Photoshop, illustrator  , CorelDraw
 - 📫 How to reach me ... sitikanthamuhuri@gmail.com
 
 <!---
